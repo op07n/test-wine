@@ -5,4 +5,4 @@ xfce4-session
 xfce4-settings
 xorg
 xubuntu-icon-theme
-winehq-stable
+--install-recommends winehq-stable
