@@ -1,5 +1,5 @@
 channels:
-  - manics
+  - conda-forge
 dependencies:
   - websockify
   - pip:
